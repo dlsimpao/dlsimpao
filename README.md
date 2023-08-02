@@ -1,6 +1,6 @@
-### Hey!
+### Hello there!
 
-I like learning things about data, data software, and data systems.
+My name's Ricardo. I like learning all things software and data.
 
 Software/Platforms I use
 * ArcGIS
