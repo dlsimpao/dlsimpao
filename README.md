@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hey!
+
+I like learning things about data, data software, and data systems.
+
+Software/Platforms I use
+* ArcGIS
+* AWS
+* Azure (currently learning)
+
+Languages I work in
+* Python
+* Rust (currently learning)
+* R
+* SQL
+
 
 <!--
 **dlsimpao/dlsimpao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
