@@ -9,7 +9,7 @@ Software/Platforms I use
 
 Languages I work in
 * Python
-* Rust (currently learning)
+* Rust
 * R
 * SQL
 
