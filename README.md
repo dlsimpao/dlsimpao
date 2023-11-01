@@ -3,16 +3,29 @@
 My name's Ricardo. I like learning all things software and data.
 
 Software/Platforms I use
-* ArcGIS
 * AWS
 * Azure (currently learning)
+* Microsoft Office (Word, Excel, PowerPoint)
 
 Languages I work in
+* T-SQL
 * Python
-* Rust
 * R
+* Rust
 * SQL
 
+Databases/File systems
+* MongoDB
+* SQL Server
+* s3
+* Azure Data Lake Storage Gen2
+
+Visualization Platforms
+* R Shiny
+* ArcGIS
+* Zoho Analytics
+* Tableau
+* PowerBI
 
 <!--
 **dlsimpao/dlsimpao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
